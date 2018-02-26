@@ -1,2 +1,2 @@
-def a():
-    return "version1"
+def b():
+    return 1
