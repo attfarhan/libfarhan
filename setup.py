@@ -8,7 +8,7 @@ setup(
     author_email='farhan@sourcegraph.com',
     url='https://github.com/attfarhan/libfarhan',  # use the URL to the github repo
     # I'll explain this in a second
-    download_url='https://github.com/attfarhan/libfarhan/archive/0.1.tar.gz',
+    download_url='https://github.com/attfarhan/libfarhan/archive/0.4.tar.gz',
     keywords=['test', 'python', 'farhan'],  # arbitrary keywords
     classifiers=[],
 )
