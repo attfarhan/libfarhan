@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name='libfarhan',
     packages=['libfarhan'],  # this must be the same as the name above
-    version='0.3',
+    version='0.4',
     description='Libfarhan test library',
     author='Farhan Attamimi',
     author_email='farhan@sourcegraph.com',
